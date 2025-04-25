@@ -14,9 +14,9 @@ To setup the environment do:
 1. Create a folder for the assignment: mkdir hw1; cd hw1
 2. Retrieve the dataset we will use and the code from this repo:
     1. git clone https://github.com/UniversalDependencies/UD_English-EWT.git
-    2. git clone https://github.com/melhadad/nlp-with-llms-2024-hw1.git
+    2. git clone https://github.com/melhadad/nlp-with-llms-2025-hw1.git
 3. Load the required python libraries:
-    1. cd nlp-with-llms-hw1; uv sync
+    1. cd nlp-with-llms-2025-hw1; uv sync
 4. Define your API keys in either gemini_key.ini or grok_key.ini
     1. Define the environment variables in your shell - for example:
     ```
